@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Afolabi Peter Olamilekan</title>
+  Afolabi Peter Olamilekan
   <meta content="" name="description">
   <meta content="" name="keywords">
   
@@ -70,22 +70,7 @@
     </div>
   </section>
 
-  <main id="main">
-
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-
-      <div class="container" data-aos="fade-up">
-        <div class="row">
-
-          <div class="col-lg-5 col-md-6">
-            <div class="about-img" data-aos="fade-right" data-aos-delay="100">
-              <img src="file:///C:/Users/AFOLABI%20JOSEPH/Desktop/PETER/done%20(2).jpg" alt="">
-            </div>
-          </div>
-
-          <div class="col-lg-7 col-md-6">
-            <div class="about-content" data-aos="fade-left" data-aos-delay="100">
+  
               <h2><span>ABOUT</span> ME</h2>
               <br>
               <h4>Name : <span>Afolabi Peter Olamilekan.</span></h4>
