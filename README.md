@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  Afolabi Peter Olamilekan
+  
   <meta content="" name="description">
   <meta content="" name="keywords">
   
@@ -55,20 +55,15 @@
           <h6>A diligent and hardworking computer science major currently studying in Redeemer's University. Aiming to leverage proven 
             leadership, management and problem solving skills to successfully fill the role at any organization or environment I find myself.</h6>
           <div class="hero-buttons">
-            <a href="#about" class="btn-get-started scrollto">About Me</a>
+            <a href="iamsoftedits. 000webhostapp.com" class="btn-get-started scrollto">About Me</a>
           </div>
           <br>
             <div>
-            <a href="#hire" class="btn btn-secondary">Hire Me</a>
+            <a href="https://wa.link/zwrop9" class="btn btn-secondary">Hire Me</a>
           </div>
         </div>
 
-        <div class="col-lg-6 intro-img order-lg-last order-first" data-aos="zoom-out" data-aos-delay="200"></div>
-          <img src="" alt="" class="img-fluid">
-        </div>
-      </div>
-    </div>
-  </section>
+      
 
   
               <h2><span>ABOUT</span> ME</h2>
@@ -91,17 +86,7 @@
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
 
-        <header class="section-header">
-          <br>
-          <h3>SERVICES</h3>
-          <p>Many other services we render are as follows</p>
-        </header>
-
-        <div class="row">
-
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-aos="zoom-in" data-aos-delay="100">
-            <div class="box">
-              <div class="icon" style="background: #edf0f7;"><i class="bi bi-hand-thumbs-up-fill" style="color: #1db0de;"></i></div>
+      
               <h4 class="title"><a href="javascript:void(0);">GRAPHICS DESIGNING</a></h4>
               <p class="description">write about graphics design</p>
             </div>
@@ -147,38 +132,7 @@
       </div>
     </section>
   
-    <!-- ======= Education Section ======= -->
-    <br>
-    <section id="edu" class="portfolio">
-      <div class="container-fluid" data-aos="fade-up">
-
-        <header class="section-header">
-          <h3><span>MY</span> EDUCATION</h3>
-          <p>Eductional Institute Attended/Qualification Obtained</p>
-        </header>
-
-        <div class="row">
-
-          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
-            <div class="">
-              <img src="" alt="" class="img-fluid">
-            </div>
-          </div>
-
-          <div class="col-lg-6">
-            <div class="edu-content">
-           
-              <div class="features clearfix" data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-chat-text" style="color: #f058dc;"></i>
-                <h4>Redeemer's University <small style="font-weight: lighter;"> (B.Sc)</small> </h4>
-                <p>2019 - 2023</p>
-              </div>
-
-              <div class="features clearfix" data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-cash-stack" style="color: #ffb774;"></i>
-                <h4>Firstgate Optimus High School <small style="font-weight: lighter;"> (WASSCE)</small></h4>
-                <p>2016 - 2019</p>
-              </div>
+  
 
               <div class="features clearfix" data-aos="fade-up" data-aos-delay="300">
                 <i class="bi bi-card-checklist" style="color: #589af1;"></i>
