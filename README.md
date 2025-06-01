@@ -52,8 +52,10 @@
       <div class="row justify-content-center align-self-center" data-aos="fade-up">
         <div class="col-lg-6 intro-info order-lg-first order-last" data-aos="zoom-in" data-aos-delay="100">
           <h2>I AM PETER<br><span> AFOLABI</span></h2>
-          <h6>A diligent and hardworking computer science major currently studying in Redeemer's University. Aiming to leverage proven 
-            leadership, management and problem solving skills to successfully fill the role at any organization or environment I find myself.</h6>
+          <h6>Diligent, proactive and hardworking Technical support specialist with hands-on experience in technical support, IT troubleshooting, and customer service.
+Proven ability to diagnose and resolve hardware and software issues, manage system upgrades, and provide technical guidance to non-technical users.
+Skilled in documentation, help-desk support, and maintaining service continuity.
+Passionate about leveraging technology to support users and optimize performance.</h6>
           <div class="hero-buttons">
             <a href="iamsoftedits. 000webhostapp.com" class="btn-get-started scrollto">About Me</a>
           </div>
